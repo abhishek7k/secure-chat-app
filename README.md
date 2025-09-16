@@ -1,4 +1,4 @@
----
+
 # Secure Messaging App for Windows (Python & AES)
 
 ## Project Overview
