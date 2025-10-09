@@ -1,3 +1,4 @@
+
 import sys
 import socket
 import threading
@@ -487,3 +488,4 @@ if __name__ == "__main__":
     window = SecureChatApp()
     window.show()
     sys.exit(app.exec_())
+
