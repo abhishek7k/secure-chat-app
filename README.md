@@ -1,4 +1,3 @@
-
 # Secure Chat App for Windows (Python & AES)
 
 ## Project Overview
@@ -77,4 +76,5 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or feedback, please contact me at **abhishek.kumar.secops@gmail.com**.
+
 
