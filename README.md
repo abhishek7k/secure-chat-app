@@ -69,12 +69,10 @@ This project demonstrates proficiency in:
 * **Multithreading:** Ability to create responsive applications by managing concurrent tasks.
 * **Security Principles:** A deep understanding of confidentiality, integrity, and the challenges of key management.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
 For any questions or feedback, please contact me at **abhishek.kumar.secops@gmail.com**.
+
 
 
