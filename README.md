@@ -59,7 +59,7 @@ This project uses a pre-shared key for demonstration purposes. In a real-world, 
 
 ---
 
-## Resume Highlights
+## Project Highlights
 
 This project demonstrates proficiency in:
 
@@ -73,6 +73,7 @@ This project demonstrates proficiency in:
 ## Contact
 
 For any questions or feedback, please contact me at **abhishek.kumar.secops@gmail.com**.
+
 
 
 
